@@ -1,8 +1,8 @@
 # vanilla-js-3-edition
 
-Here , WE are going to learn vanilla JS 3rd edition, written by #MarjinHaverbeke 
+Here , I am going to learn vanilla JS 3rd edition, written by #MarjinHaverbeke 
 
-WE will share all the solutions chapter wise. 
+I will share all the solutions chapter wise. 
 
 # chapter 1 : Values , Types, And Operators
 
